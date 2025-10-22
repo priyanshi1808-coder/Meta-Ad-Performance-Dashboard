@@ -1,9 +1,7 @@
 # Meta-Ad-Performance-Dashboard
 1.  Project Discription
 The Meta Ad Performance Dashboard is an interactive and dynamic data visualization project built to analyze and monitor advertising performance across Meta platforms (Facebook and Instagram).
-
 It provides key insights into ad metrics such as Impressions, Clicks, CTR, Engagement Rate, Conversion Rate, and Purchase Rate, helping marketers and analysts make data-driven decisions.
-
 The dashboard allows users to dynamically filter data by platform, campaign name, and target interest, making it easy to identify trends and optimize ad strategies.
 
 2.  Tech Stack
@@ -22,3 +20,5 @@ Conversion Rate: Around 5%, with steady weekly trends
 Audience Analysis: Majority engagement from females (43%) and age group 18–30
 Geographical Reach: High engagement from North America and Europe
 
+4. Screenshot
+   It Looks Like- https://github.com/priyanshi1808-coder/Meta-Ad-Performance-Dashboard/blob/main/Screenshot%202025-10-22%20230607.png
